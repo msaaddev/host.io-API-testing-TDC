@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/msaaddev/host.io-API-testing-TDC/issues"
   },
-  "homepage": "https://github.com/msaaddev/host.io-API-testing-TDC#readme"
+  "homepage": "https://github.com/msaaddev/host.io-API-testing-TDC#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
